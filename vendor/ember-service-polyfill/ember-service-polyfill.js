@@ -8,7 +8,7 @@
                      "without a container, ensure that the object was " +
                      "instantiated via a container.", this.container);
 
-        return this.container.lookup(`controller:${name || Ember.String.dasherize(key)}`);
+        return this.container.lookup('controller:' + (name || Ember.String.dasherize(key))');
       }).readOnly()
     },
 
@@ -18,7 +18,7 @@
                      "without a container, ensure that the object was " +
                      "instantiated via a container.", this.container);
 
-        return this.container.lookup(`service:${name || Ember.String.dasherize(key)}`);
+        return this.container.lookup('service:' + (name || Ember.String.dasherize(key))');
       }).readOnly()
     }
   };
