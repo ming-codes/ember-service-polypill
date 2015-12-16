@@ -1,6 +1,7 @@
-# Ember-service-polyfill
+# ember-service-polyfill
 
-This README outlines the details of collaborating on this Ember addon.
+`ember-service-polyfill` is an Ember CLI addon to polyfill `Ember.Service` and
+`Ember.inject` to Ember versions that has no support for services (<= 1.8).
 
 ## Installation
 
