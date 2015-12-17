@@ -1,6 +1,6 @@
 {
   "name": "ember-service-polyfill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The default blueprint for ember-cli addons.",
   "directories": {
     "doc": "doc",
@@ -11,11 +11,11 @@
     "start": "ember server",
     "test": "ember test"
   },
-  "repository": "",
+  "repository": "https://github.com/ming-codes/ember-service-polyfill",
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "Ming Liu",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.0",
