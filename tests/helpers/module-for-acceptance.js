@@ -6,6 +6,7 @@ export default function(name, options = {}) {
   module(name, {
     beforeEach() {
       this.application = startApp();
+      this.container = this.container || this.application.__container__;
 
       if (options.beforeEach) {
         options.beforeEach.apply(this, arguments);
