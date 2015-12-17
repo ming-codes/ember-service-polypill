@@ -1,5 +1,11 @@
 # ember-service-polyfill
 
+[![Build Status](https://travis-ci.org/ming-codes/ember-service-polyfill.svg?branch=master)](https://travis-ci.org/ming-codes/ember-service-polyfill)
+[![npm version](https://badge.fury.io/js/ember-service-polyfill.svg)](http://badge.fury.io/js/ember-service-polyfill)
+[![Code Climate](https://codeclimate.com/github/ming-codes/ember-service-polyfill/badges/gpa.svg)](https://codeclimate.com/github/ming-codes/ember-service-polyfill)
+[![Dependency Status](https://david-dm.org/ming-codes/ember-service-polyfill.svg)](https://david-dm.org/ming-codes/ember-service-polyfill)
+[![devDependency Status](https://david-dm.org/ming-codes/ember-service-polyfill/dev-status.svg)](https://david-dm.org/ming-codes/ember-service-polyfill#info=devDependencies)
+
 `ember-service-polyfill` is an Ember CLI addon to polyfill `Ember.Service` and
 `Ember.inject` to Ember versions that has no support for services (<= 1.8).
 
