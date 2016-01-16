@@ -1,7 +1,7 @@
 {
   "name": "ember-service-polyfill",
-  "version": "1.0.1",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "1.0.2",
+  "description": "ember-service-polyfill is an Ember CLI addon to polyfill Ember.Service and Ember.inject to Ember versions that has no support for services (<= 1.8)",
   "directories": {
     "doc": "doc",
     "test": "tests"
