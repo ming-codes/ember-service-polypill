@@ -1,5 +1,7 @@
 # ember-service-polyfill
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ming-codes/ember-service-polyfill.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/ming-codes/ember-service-polyfill.svg?branch=master)](https://travis-ci.org/ming-codes/ember-service-polyfill)
 [![npm version](https://badge.fury.io/js/ember-service-polyfill.svg)](http://badge.fury.io/js/ember-service-polyfill)
 [![Code Climate](https://codeclimate.com/github/ming-codes/ember-service-polyfill/badges/gpa.svg)](https://codeclimate.com/github/ming-codes/ember-service-polyfill)
